@@ -1,7 +1,7 @@
 ## development
 #### `docker-compose up`
 
-Runs the app in the development.<br>
+Runs the app in the development container. The container is tagged with `innervision/docker-react-dev`.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The test runner will be run as well.
